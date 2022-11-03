@@ -1,0 +1,186 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+}
+li {
+  list-style: none;
+}
+.right {
+  height: 100px
+}
+.lower {
+  width: 43%
+}
+.arrow {
+  width: 3px
+}
+.logon {
+  width: 3%
+}
+.logon {
+  border-style: solid;
+}
+.logon {
+  border-color: white;
+}
+.logon {
+  display: block;
+}
+.logon {
+  position: relative;
+e
+}
+.logon {
+  border-right: 200px;
+}
+ li {
+      display: block;
+      width: 139px;
+      height: 77px;
+      float: right;
+      border-style: solid;
+      border-color: white;
+      border-width: 1px;
+
+}
+.arrow {
+  max-width: 3px;
+  height: auto;
+}
+.onetoarrow {
+  justify-content: space-between;
+  padding-left: 4000px;
+  position: relative;
+}
+.onetwo {
+  display: flex;
+}
+.readmorearrow {
+  display: flex;
+  padding-left: 550px;
+  float: right;
+}
+.readmorearrow {
+  height: 20px
+}
+.lower {
+    right: 800px
+}
+.AI {
+  position: relative;
+top: 760px;
+left: 270px;
+border-top-color: white
+}
+.AI {
+  border-top-style: solid
+}
+.AI {
+  position: absolute
+}
+.Nuke {
+  position: relative;
+  top: 760px;
+  left: 560px
+}
+.Nuke {
+  border-color: white
+}
+.Nuke {
+  border-top-color: white
+}
+.Nuke {
+  border-top-style: solid;
+}
+.Nuke {
+  position: absolute
+}
+.Global {
+  position: relative;
+top: 760px;
+left: 850px;
+}
+.Global {
+  border-top-color: white
+}
+.Global {
+  border-top-style: solid;
+}
+.Global {
+  position: absolute
+}
+.Lethal {
+  position: relative;
+top: 760px;
+left: 1100px;
+}
+.Lethal {
+  border-top-color: white
+}
+.Lethal {
+  border-top-style: solid;
+}
+.Lethal {
+  position: absolute
+}
+.lower {
+position: relative;
+top: -79px;
+left: 610px;
+}
+.right {
+position: relative;
+top: -56px;
+left: -300px;
+}
+.alottext {
+  position: relative;
+  top: -300px;
+  left: 255px;
+  }
+.alottext {
+    font-size: 150px
+}
+.mainstuff {
+  position: relative;
+  top: 70px;
+  left: 270px;
+  }
+.Life {
+  position: relative;
+  top: -162px;
+  left: 159px;
+  border-color: white
+  }
+.Life {
+  border-style: solid
+}
+.Life {
+    border-left: none
+}
+.logon {
+  width: 156px
+}
+.search {
+    position: relative;
+    top: -340px;
+    left: 1455px;
+    width: 155px
+}
+.search {
+      border-color: white
+}
+.search {
+      border-style: solid
+    }
+.search {
+  border-width: 1px
